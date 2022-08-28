@@ -2,7 +2,7 @@
 #include <string.h>
 #include <math.h>
 #include <stdlib.h>
-
+//tips: Learn By Heart youtube channel
 int main() 
 {
 
