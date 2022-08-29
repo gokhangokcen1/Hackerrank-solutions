@@ -2,7 +2,7 @@
 #include <string.h>
 #include <math.h>
 #include <stdlib.h>
-//tips: Learn By Heart youtube channel
+//this problem was too hard for me. I watched a video of 'Learn By Heart' youtube channel about this problem's solution.
 int main() 
 {
 
