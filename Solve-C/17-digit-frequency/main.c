@@ -12,7 +12,7 @@ int main() {
     while (scanf("%c",&string) != EOF) 
     {
         if(string >= '0' && string <= '9')
-            arr[string-'0'] +=1; //increment by one to that element of string
+            arr[string-'0'] +=1; //increment by one to that element of string . for more information cc4e.com chapter 1 arrays
     }
     
     for(int i; i<10;i++)
